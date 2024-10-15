@@ -6,7 +6,7 @@ I am a passionate and highly motivated software engineer with five years of inva
 
 ## 🚀 Technical Skills
 
-- **Full Stack Development:** Python, Django, PHP, Laravel, Flask, JavaScript, REST/REST APIs
+- **Full Stack Development:** Python, Django, PHP, Laravel, Flask, JavaScript,Typescript, React, VUE, REST/REST APIs
 - **Cloud Platforms:** Azure, IBM Cloud
 - **Containerization:** Docker
 - **Mobile Development:** Android, Java
